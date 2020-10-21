@@ -36,5 +36,6 @@ Step7: Star this repository!
 growth of open source and make positive contributions to an ever-growing community. All backgrounds and skill levels are encouraged to complete the challenge.
 
 👉You can sign up anytime between October 1 and October 31.
+Hurry No time LEFT!!!!!
 
 https://hacktoberfest.digitalocean.com/
